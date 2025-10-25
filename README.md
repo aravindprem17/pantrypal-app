@@ -21,3 +21,9 @@ PantryPal is a simple web application to track your home grocery inventory. Buil
 * **Database:** SQLite.
 
 ## Project Structure
+pantrypal-app/ 
+├── backend/ # FastAPI application 
+├── frontend/ # HTML, CSS, JavaScript files 
+├── .gitignore 
+├── README.md 
+└── requirements.txt # Backend Python dependencies
